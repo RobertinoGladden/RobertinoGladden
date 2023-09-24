@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertinoGladden
-- 👀 I’m interested in Website Development and UI/UX Design
-- 🌱 I’m currently learning Front-End Development and User Interface Design
+- 👀 I’m interested in Website Development
+- 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on Projects and Contract
 - 📫 You can reach me via LinkedIn or Email
 <!---

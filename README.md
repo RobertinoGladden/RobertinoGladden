@@ -4,7 +4,7 @@ Hi 👋 My name is Robertino Gladden Narendra
 Front-End Developer
 -------------------
 
-I've been learning for 6 months in the field of Website Development with a specialization in Front-End Development. Starting from learning basic structures to frameworks used in programming.
+I've been learning for 3 months in the field of Website Development with a specialization in Front-End Development. Starting from learning basic structures to frameworks used in programming.
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [my personal website.](http://robertinogladden.github.io/personal-website/)
